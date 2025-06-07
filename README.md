@@ -1,4 +1,4 @@
-# Undergraudate-Capston-Project
+# Undergraudate-Capstone-Project
 1. con_graph.py: This script generates convergence graphs for a reinforcement learning system with different user equipment (UE) counts.
 2. dp_ex_graphic.py: This script creates a comparative energy efficiency plot
 3. dqn_agent.py: Implements a Dueling DQN reinforcement learning agent with several parameters
